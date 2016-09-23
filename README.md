@@ -1,2 +1,2 @@
 # TRINITY
-TRINITY GAME
+## 大一 EL 大赛项目
